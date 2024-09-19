@@ -22,6 +22,9 @@ jobs:
       with:
         persist-credentials: false
     - uses: julia-actions/setup-julia@v1
+     - name: Add custom registry
+      run: |
+        julia -e 'using Pkg; Pkg.Registry.add(RegistrySpec(url = "https://gitee.com/mathutopia/dplusreg.git"))'
     - uses: julia-actions/cache@v1
     - uses: julia-actions/julia-buildpkg@v1
 
