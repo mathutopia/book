@@ -1,3 +1,3 @@
-# JuliaTutorialsTemplate
+# book
 
-See <http://rikhuijzer.github.io/JuliaTutorialsTemplate/> for more information.
+See <http://mathutopia.github.io/book/> for more information.
