@@ -237,9 +237,6 @@ md"""
 由于Pluto是本教程的关键计算环境， 下面的视频简要介绍了一下Pluto的使用。 更多使用的方法， 可以参考Pluto提供的官方notebook。
 """
 
-# ╔═╡ 7fe6300f-72c4-4ce3-ac1e-6c2cf2e9579f
-LocalResource("../video/Pluto写代码.mp4", :width => 800)
-
 # ╔═╡ 2f91e247-0ecd-411c-852f-ba1bbc229813
 md"""
 关于Pluto， 需要了解以下内容：
@@ -680,7 +677,6 @@ version = "17.4.0+2"
 # ╟─9080f51b-4485-4493-8fdf-151f7ef56190
 # ╟─a529b8ca-27ba-48ad-9047-a1b5815d81a5
 # ╟─357f5116-3a19-4591-a5c5-6efc1165b63a
-# ╠═7fe6300f-72c4-4ce3-ac1e-6c2cf2e9579f
 # ╟─2f91e247-0ecd-411c-852f-ba1bbc229813
 # ╟─c93fe6cb-7d09-49ec-be54-e01f9d55bacc
 # ╟─21956996-6ee7-4ca2-9c28-4db3cd120c44
